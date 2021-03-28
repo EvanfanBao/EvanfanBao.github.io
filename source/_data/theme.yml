@@ -16,7 +16,7 @@ menu:
   Educations: /
   #About: /
   Internships: /
-  Blog: http://www.baidu.com   
+  Blog: https://evanfanbao.gitlab.io
 
 # flink picture will load if avator link calls on error
 loading_bg:
@@ -32,7 +32,7 @@ social_links:
   #fab fa-facebook-square: /
   fab fa-github: https://github.com/EvanfanBao
   #fab fa-stack-overflow: /
-  fab fa-linkedin: https://www.linkedin.com/in/奕帆-鲍-74779817b
+  fab fa-linkedin: https://www.linkedin.com/in/evanfanbao/
   #fab fa-weibo: /
   #fab fa-weixin: /
   #fab fa-qq: /
@@ -50,7 +50,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV.pdf
+  dir: /attaches/byfCV.pdf
   description: My Detail CV.
 
 # Box-shadow

@@ -12,7 +12,7 @@ academia: true
 # Biography
 * I am third year student in Chu Kochen Honors College, Zhejiang University(Computer Science and Technology).
 * Currently I am a member of [VIPA Group](https://www.vipazoo.cn), led by Professor [Ming-Li Song](https://person.zju.edu.cn/en/msong).
-* My research interest include maching learning, computer vision and programming language.
+* My research interests include maching learning, computer vision and programming language.
 * I won the 2018-2019 & 2019-2020 Third-class scholarship of Zhejiang University
 
 # Publications
@@ -22,6 +22,7 @@ academia: true
 # Honors and Awards
 * 2019-2020 third-class scholarship of Zhejiang University
 * 2018-2019 third-class scholarship of Zhejiang University
+* Excellent conclusion of Student Research Training Program of Zhejiang University, 2018-2019
 
 # Educations
 
