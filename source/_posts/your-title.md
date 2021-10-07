@@ -5,13 +5,13 @@ tags:
 academia: true
 ---
 # Biography
-* I am a third year student in Chu Kochen Honors College, Zhejiang University(Computer Science and Technology).
+* I am a fourth year student in Chu Kochen Honors College, Zhejiang University(Computer Science and Technology).
 * Currently I am a member of [VIPA Group](https://www.vipazoo.cn), led by Professor [Ming-Li Song](https://person.zju.edu.cn/en/msong).
 * My research interests include maching learning, computer vision and programming language.
 * I won the 2018-2019 & 2019-2020 Third-class scholarship of Zhejiang University
 
 # Publications
-
+[1] Mosaicking to Distill: Knowledge Distillation from Out-of-Domain Data. Gongfan Fang, **Yifan Bao**, Jie Song, Xinchao Wang, Donglin Xin, Chengchao Shen, Mingli Song, Advances in Neural Information Processing Systems (NeurIPS), 2021
 
 
 # Honors and Awards
